@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=discordjs,npm,elasticsearch,ruby,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,flutter,java,html,heroku,graphql,gradle,go,git,rust,c,qt,py,pytorch,prisma,postman,opencv,perl,powershell,deno,postgres,cassandra,pnpm,fastapi,wasm,bash,dart,css,sass,tailwind,react,rails,styledcomponents,ts,redux,regex,redis,sklearn,tensorflow,sqlite,tauri,vite"/><br><br>
     <img src="https://skillicons.dev/icons?i=cloudflare,aws,netlify,azure,vercel,supabase,gcp,firebase,"/><br><br>
     <img src="https://skillicons.dev/icons?i=blender,figma,"/><br><br>
-    <img src="https://skillicons.dev/icons?i=arduino,obsidian"/><br><br>
+    <img src="https://skillicons.dev/icons?i=arduino,obsidian,"/><br><br>
   </a>
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
