@@ -1,3 +1,5 @@
+<a href="https://github.com/tarek-alliani"><img src="https://streak-stats.demolab.com?user=tarek-alliani&amp;theme=transparent&amp;hide_border=true&amp;card_width=300&amp;card_height=200">
+
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ALPHA.DEV!+😎;&textColor=332E28" /></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
@@ -25,7 +27,9 @@
 
 ## 📊GitHub Stats:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true&theme=transparent)](https://github.com/tarek-alliani)
-<img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=300&card_height=200" alt="GitHub Streak">
+<br>
+<a href="https://github.com/tarek-alliani"><img src="https://streak-stats.demolab.com/?user=tarek-alliani&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<br>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🥰;+Pass+me+a+message+on+Linkedin+📮!;I'm+Long+Life+Learner+🧑‍🎓"></h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
