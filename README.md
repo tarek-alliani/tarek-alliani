@@ -23,12 +23,11 @@
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
-## 📊GitHub Stats: ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/tarek-alliani)
+## 📊GitHub Stats: 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
 
-<img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=300&card_height=200" alt="GitHub Streak"> <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight">
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=300&card_height=200" alt="GitHub Streak">
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
-
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🥰;+Pass+me+a+message+on+Linkedin+📮!;I'm+Long+Life+Learner+🧑‍🎓"></h3>
-
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
