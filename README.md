@@ -11,14 +11,11 @@
 <br>
 <!---------------->
 
-
-
 ## 🙋‍♂️ About Me:
 - 🐍 Currently learning Java & Adv-C
 - 💬 Ask me for **OS Tips & Tricks**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/tarek-alliani?tab=repositories)**
 - 😂 Fun fact : **I Go Wild In My Flow**
-
 
 <!-- Break Line -->
 <br>
@@ -27,7 +24,6 @@
 </div>
 <br>
 <!---------------->
-
 
 ## 🚀 Languages and Tools:
 <div align="center">
@@ -36,7 +32,6 @@
     <img src="https://skillicons.dev/icons?i=" />
 </div>
 
-
 <!-- Break Line -->
 <br>
 <div align="center">
@@ -45,13 +40,11 @@
 <br>
 <!---------------->
 
-
 ##  Connect With Me:
 <div align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a><a href="alphafreecs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a><a href="YOUR_PORTFOLIO_WEBSITE_URL"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white"/><br></a><a href="https://ko-fi.com/T6T310VS8E"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
 </div>
-
 
 <!-- Break Line -->
 <br>
@@ -62,15 +55,15 @@
 <!---------------->
 
 ## 💜 Views and Followers:
-
 <a href="https://github.com/tarek-alliani/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tarek-alliani">
 </a>
-<a href="https://github.com/tarek-alliani?tab=followers"><img src="https://img.shields.io/github/followers/tarek-alliani?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<img
+  src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480"
+  alt="GitHub Streak Stats"
+  style="height: 200px; width: auto;"
+/>
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)
-
 
 <!-- Break Line -->
 <br>
@@ -80,11 +73,9 @@
 <br>
 <!---------------->
 
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🥰;+Pass+me+a+message+on+Linkedin+📮!;I'm+Long+Life+Learner+🧑‍🎓">
 </h3>
-
 
 <!-- Break Line -->
 <br>
