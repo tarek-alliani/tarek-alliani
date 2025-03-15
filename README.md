@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me:
 - 🐍 Currently learning **Java & Adv-C**
 - 💬 Ask me for **OS Tips & Tricks**
-- 👨‍💻 Some of my projects **[My Repository](https://github.com/tarek-alliani?tab=repositories)**
+- 👨‍💻 Some of **[My Projects](https://github.com/tarek-alliani?tab=repositories)**
 
 ## 🚀 Languages and Tools:
 <div align="center">
