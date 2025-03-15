@@ -72,7 +72,6 @@
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarek-alliani&theme=tokyonight&hide)
 <!--_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)-->
-<br>
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarek-alliani&theme=tokyonight)
 
 
