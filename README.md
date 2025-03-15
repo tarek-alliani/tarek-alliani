@@ -7,8 +7,6 @@
 - 💬 Ask me for **OS Tips & Tricks**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/tarek-alliani?tab=repositories)**
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
-
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" />
@@ -24,16 +22,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a><a href="alphafreecs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a><a href="YOUR_PORTFOLIO_WEBSITE_URL"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white"/><br></a><a href="https://ko-fi.com/T6T310VS8E"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
 </div>
 
-<!-- Break Line -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<!---------------->
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## 💜 Views and Followers:
 <img src="https://komarev.com/ghpvc/?username=tarek-alliani">
 
-<img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight"> <img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=340&card_height=200" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=300&card_height=200" alt="GitHub Streak"> <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight">
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
