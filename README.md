@@ -13,7 +13,7 @@
   <a href="https://github.com/tarek-alliani">
     <img src="https://skillicons.dev/icons?i=arch," /><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,"/><br>
-    <img src="https://skillicons.dev/icons?i=arduino,"/><br>
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure"/><br>
   </a>
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
