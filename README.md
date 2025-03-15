@@ -10,10 +10,12 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=" />
-    <img src="https://skillicons.dev/icons?i=" />
-    <img src="https://skillicons.dev/icons?i=" />
+  <a href="https://github.com/tarek-alliani">
+    <img src="https://skillicons.dev/icons?i=arch," /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio," /><br>
+  </a>
 </div>
+<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats.vercel.app//api/top-langs/?username=tarek-alliani&layout=compact&langs_count=8&theme=transparent&hide_border=true"/></a>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ##  Connect With Me:
@@ -27,6 +29,7 @@
 <div align="center">
     <a href="https://github.com/tarek-alliani"><img src="https://streak-stats.demolab.com?user=tarek-alliani&amp;theme=transparent&amp;hide_border=true&amp;card_width=300&amp;card_height=200"></a>
     <a href="https://github.com/tarek-alliani"><img src="https://github-readme-stats.vercel.app/api?username=tarek-alliani&show_icons=true&hide_border=true&theme=transparent"></a>
+
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
