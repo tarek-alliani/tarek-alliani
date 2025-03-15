@@ -11,9 +11,12 @@
 ## 🚀 Languages and Tools:
 <div align="center">
   <a href="https://github.com/tarek-alliani">
-    <img src="https://skillicons.dev/icons?i=arch," /><br>
+    <img src="https://skillicons.dev/icons?i=arch,debian" /><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,"/><br>
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure"/><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,dart,css"/><br>
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,"/><br>
+    <img src="https://skillicons.dev/icons?i=blender,"/><br>
+    <img src="https://skillicons.dev/icons?i=arduino,"/><br>
   </a>
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
