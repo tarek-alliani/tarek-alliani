@@ -3,9 +3,9 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## 🙋‍♂️ About Me:
-- 🐍 Currently learning Java & Adv-C
+- 🐍 Currently learning **Java & Adv-C**
 - 💬 Ask me for **OS Tips & Tricks**
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/tarek-alliani?tab=repositories)**
+- 👨‍💻 Some of my projects **[My Repository](https://github.com/tarek-alliani?tab=repositories)**
 
 ## 🚀 Languages and Tools:
 <div align="center">
