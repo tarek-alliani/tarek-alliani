@@ -68,8 +68,10 @@
 </a>
 <a href="https://github.com/tarek-alliani?tab=followers"><img src="https://img.shields.io/github/followers/tarek-alliani?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)  
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)-->
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)
+<br>
+![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+<br>
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarek-alliani&theme=tokyonight)
 
 
