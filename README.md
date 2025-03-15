@@ -11,10 +11,10 @@
 ## 🚀 Languages and Tools:
 <div align="center">
   <a href="https://github.com/tarek-alliani">
-    <img src="https://skillicons.dev/icons?i=discordjs,elasticsearch,ruby,obsidian,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,flutter,java,html,heroku,graphql,gradle,go,git,rust,c,qt,py,pytorch,prisma,postman,opencv,perl,powershell,postgres,pnpm,wasm,bash,dart,css,sass,tailwind,react,rails,styledcomponents,ts,redux,regex,redis,sklearn,tensorflow,sqlite,tauri,vite"/><br><br>
+    <img src="https://skillicons.dev/icons?i=discordjs,elasticsearch,ruby,obsidian,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,flutter,java,html,heroku,graphql,gradle,go,git,rust,c,qt,py,pytorch,prisma,postman,opencv,perl,powershell,postgres,pnpm,fastapi,wasm,bash,dart,css,sass,tailwind,react,rails,styledcomponents,ts,redux,regex,redis,sklearn,tensorflow,sqlite,tauri,vite"/><br><br>
     <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,vercel,supabase,gcp,firebase,"/><br><br>
-    <img src="https://skillicons.dev/icons?i=blender,figma,fastapi"/><br><br>
-    <img src="https://skillicons.dev/icons?i=arduino, "/><br><br>
+    <img src="https://skillicons.dev/icons?i=blender,figma,"/><br><br>
+    <img src="https://skillicons.dev/icons?i=arduino,"/><br><br>
   </a>
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
