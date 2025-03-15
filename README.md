@@ -11,7 +11,6 @@
 ## 🚀 Languages and Tools:
 <div align="center">
   <a href="https://github.com/tarek-alliani">
-    <img src="https://skillicons.dev/icons?i=linux,androidstudio,"/><br>
     <img src="https://skillicons.dev/icons?i=c,wasm,bash,dart,css,"/><br>
     <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,"/><br>
     <img src="https://skillicons.dev/icons?i=blender,"/><br>
