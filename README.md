@@ -11,8 +11,8 @@
 ## 🚀 Languages and Tools:
 <div align="center">
   <a href="https://github.com/tarek-alliani">
-    <img src="https://skillicons.dev/icons?i=c,wasm,bash,dart,css,vite"/><br>
-    <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,"/><br>
+    <img src="https://skillicons.dev/icons?i=c,wasm,bash,dart,css,tailwind,ts,tensorflow,tauri,vite"/><br>
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,vercel"/><br>
     <img src="https://skillicons.dev/icons?i=blender,"/><br>
     <img src="https://skillicons.dev/icons?i=arduino, "/><br>
   </a>
