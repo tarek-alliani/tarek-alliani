@@ -62,8 +62,7 @@
   src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480"
   alt="GitHub Streak Stats"
   style="height: 200px; width: auto;"
-/>
-
+/><br>
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)
 
 <!-- Break Line -->
