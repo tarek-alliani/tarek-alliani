@@ -33,7 +33,7 @@
 ## 💜 Views and Followers:
 <img src="https://komarev.com/ghpvc/?username=tarek-alliani">
 
-<img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight"> <img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=300&card_height=200" alt="GitHub Streak">
+<img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight"> <img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=340&card_height=200" alt="GitHub Streak">
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
