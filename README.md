@@ -55,7 +55,8 @@
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=200&card_height=200)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&card_width=300&card_height=200" alt="GitHub Streak" /></a>
+
 <!-- Break Line -->
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
