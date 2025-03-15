@@ -70,7 +70,6 @@
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarek-alliani&theme=tokyonight)
 
 
 <!-- Break Line -->
