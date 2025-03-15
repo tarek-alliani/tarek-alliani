@@ -11,8 +11,8 @@
 ## 🚀 Languages and Tools:
 <div align="center">
   <a href="https://github.com/tarek-alliani">
-    <img src="https://skillicons.dev/icons?i=ruby,obsidian,nodejs,nextjs,nestjs,mysql,mongodb,,matlab,md,lua,less,kubernetes,js,java,html,heroku,graphql,gradle,go,git,gcp,rust,c,qt,py,pytorch,prisma,postman,opencv,perl	,powershell,postgres,pnpm,wasm,bash,dart,css,sass,tailwind,react,rails,styledcomponents,ts,redux,regex,redis,sklearn,tensorflow,sqlite,tauri,vite"/><br>
-    <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,vercel,supabase"/><br>
+    <img src="https://skillicons.dev/icons?i=ruby,obsidian,nodejs,nextjs,nestjs,mysql,mongodb,,matlab,md,lua,less,kubernetes,js,java,html,heroku,graphql,gradle,go,git,rust,c,qt,py,pytorch,prisma,postman,opencv,perl	,powershell,postgres,pnpm,wasm,bash,dart,css,sass,tailwind,react,rails,styledcomponents,ts,redux,regex,redis,sklearn,tensorflow,sqlite,tauri,vite"/><br>
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,vercel,supabase,gcp,"/><br>
     <img src="https://skillicons.dev/icons?i=blender,"/><br>
     <img src="https://skillicons.dev/icons?i=arduino, "/><br>
   </a>
