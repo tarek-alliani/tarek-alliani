@@ -52,14 +52,10 @@
 <a href="https://github.com/tarek-alliani/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tarek-alliani">
 </a>
-<img
-  src="https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480"
-  alt="GitHub Streak Stats"
-  style="height: 200px; width: auto;"
-/>
 
+![GitHub Streak]("https://streak-stats.demolab.com?user=tarek-alliani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480")
+<br>
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-alliani&theme=tokyonight)
-
 <!-- Break Line -->
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
