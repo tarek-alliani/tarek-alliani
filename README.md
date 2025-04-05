@@ -9,7 +9,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## 🚀 Languages and Tools:
-<div align="center"><a href="https://github.com/tarek-alliani"><img src="https://skillicons.dev/icons?i=discordjs,npm,elasticsearch,ruby,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,dart,flutter,java,html,heroku,graphql,gradle,go,git,c,py,pytorch,prisma,postman,opencv,perl,powershell,postgres,cassandra,pnpm,fastapi,linux,wasm,bash,tailwind,react,rails,styledcomponents,ts,redux,regex,redis,sklearn,tensorflow,sqlite,arduino,"/><img src="https://skillicons.dev/icons?i=cloudflare,aws,netlify,azure,vercel,supabase,gcp,firebase,"/><br><br><br><img src="https://skillicons.dev/icons?i=blender,figma,obsidian,"/></a></div>
+<div align="center"><a href="https://github.com/tarek-alliani"><img src="https://skillicons.dev/icons?i=discordjs,npm,elasticsearch,ruby,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,dart,flutter,java,html,heroku,graphql,gradle,go,git,c,py,pytorch,prisma,postman,opencv,perl,powershell,postgres,cassandra,pnpm,fastapi,linux,wasm,bash,tailwind,react,rails,ts,redux,regex,redis,sklearn,tensorflow,sqlite,arduino,"/><img src="https://skillicons.dev/icons?i=cloudflare,aws,netlify,azure,vercel,supabase,gcp,firebase,"/><br><br><br><img src="https://skillicons.dev/icons?i=blender,figma,obsidian,"/></a></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ##  Connect With Me:
